@@ -1,0 +1,2 @@
+# FFOpt
+Fantasy football optimizer
